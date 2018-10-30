@@ -15,3 +15,6 @@ By allowing you to see the entire chain of each branch, and also any unreachable
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is a new Master (and deleted coins branch). We show it as the tip of the Master branch because that is what it is.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: saves time  Cons: overlooks conflicts
