@@ -6,3 +6,6 @@ Staging area contains files that have been deliberately moved there for future c
 
 How can you use the staging area to make sure you have one commit per logical change?
 By only including files that logically belong together, even if others have changed (for logically unrelated reasons).
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are just trying something experimental out. Or playing with a new feature or substantially different programming method.
