@@ -12,3 +12,6 @@ When you are just trying something experimental out. Or playing with a new featu
 
 How do the diagrams help you visualize the branch structure?
 By allowing you to see the entire chain of each branch, and also any unreachable nodes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is a new Master (and deleted coins branch). We show it as the tip of the Master branch because that is what it is.
