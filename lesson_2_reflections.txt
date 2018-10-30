@@ -3,3 +3,6 @@ Git creates a new hidden folder called .git and begins tracking the directory (w
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area contains files that have been deliberately moved there for future commits when ready. It differs from the repo because the changes have not yet been committed. It differs from the working directory because other files may be present which are not yet ready to be packaged.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only including files that logically belong together, even if others have changed (for logically unrelated reasons).
