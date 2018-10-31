@@ -13,3 +13,6 @@ So you can work on merges while offline if needed.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could save a new version of files each time it was important, or even save to a whole new folder for packaged versions. But it would be pretty hard to keep track of packaging, and also difficult to easily revert, see differences, etc.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you are working on something experimental, or on a new feature, or if you are just fixing a known bug and want to isolate the change to its own branch so people can see it on GitHub. Advantages are that you are not committing (merging) into master until you are sure the new stuff is working ok.
