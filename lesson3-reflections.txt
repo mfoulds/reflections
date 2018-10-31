@@ -9,4 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 A clone is a copy of a git with all commit history. A branch is a variation of a commit stream. A fork is basically a clone done on GitHub; it allows tracing back to the original source.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-So you can work on merges while offline if needed,
+So you can work on merges while offline if needed.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could save a new version of files each time it was important, or even save to a whole new folder for packaged versions. But it would be pretty hard to keep track of packaging, and also difficult to easily revert, see differences, etc.
